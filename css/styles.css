@@ -10510,6 +10510,16 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 
+table{ 
+    width: 100%;
+    background-color: white;
+}
+
+th, td, tr{
+    width: 50%;
+    border: 0px solid transparent;    
+}
+
 .footer {
   align-content: center;
   text-align: center;
